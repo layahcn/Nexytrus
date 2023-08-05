@@ -61,7 +61,7 @@ namespace Nexytrus
         }
         public ConfigData(bool d)
         {
-            CytrusUrl = "https://launcher.cdn.ankama.com/cytrus.json";
+            CytrusUrl = "https://cytrus.cdn.ankama.com/cytrus.json";
             BaseUrl = "https://launcher.cdn.ankama.com/";
             MaxConcurrency = 20;
         }
